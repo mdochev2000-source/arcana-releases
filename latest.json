@@ -1,6 +1,6 @@
 {
- "versionCode": 123,
- "versionName": "1.10",
- "apk": "Arcana-1.10.apk",
- "notes": "• Механикът вече намира мишката и клавиатурата през /sys/class/input – HyperOS не му даваше да чете обичайния списък (/proc/bus/input/devices), затова „не виждаше“ нищо.\n• Механикът е обновен (v23) – Arcana ще го подмени сама при отваряне."
+ "versionCode": 124,
+ "versionName": "1.11",
+ "apk": "Arcana-1.11.apk",
+ "notes": "• Механикът търси мишката и клавиатурата и с getevent – HyperOS затваря и /proc, и /sys за него.\n• Механикът е обновен (v24) – Arcana ще го подмени сама при отваряне."
 }
