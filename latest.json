@@ -1,9 +1,14 @@
 {
- "versionCode": 245,
- "versionName": "2.32",
- "apk": "Arcana-2.32.apk",
- "notes": "• Етикетите на играта (64-BIT, DX11, UNITY, FPS, размер) са в долната лента, между Изтрий и A · Y · B.\n• Малко по-малки бутони в долната лента.",
+ "versionCode": 246,
+ "versionName": "2.33",
+ "apk": "Arcana-2.33.apk",
+ "notes": "• Етикетите в долната лента са на два реда и се събират целите.",
  "history": [
+  {
+   "versionCode": 246,
+   "versionName": "2.33",
+   "notes": "• Етикетите в долната лента са на два реда и се събират целите."
+  },
   {
    "versionCode": 245,
    "versionName": "2.32",
@@ -198,11 +203,6 @@
    "versionCode": 207,
    "versionName": "1.94",
    "notes": "Steam: вход с име и парола (Steam Guard – одобрение в приложението Steam или код) и библиотеката с игрите ти. Изтеглянето идва в следващата версия."
-  },
-  {
-   "versionCode": 206,
-   "versionName": "1.93",
-   "notes": "DirectX 11: tessellation (hull и domain шейдъри) – целият DX11 вече е налице. Нов тест t27."
   }
  ]
 }
